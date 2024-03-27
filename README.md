@@ -1,5 +1,6 @@
 Hi there 👋<br>
 My Name is Rohail, I'm from the UK and I am currently in High School
+<h1 align="center">My stack</h1>
 ![](https://komarev.com/ghpvc/?username=Devrohail&base=3000)
 ![](https://github-readme-stats.vercel.app/api?username=Devrohail&show_icons=true&theme=radical)
 - 🔭 I’m currently learning HTML, CSS and JS
